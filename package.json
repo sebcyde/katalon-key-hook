@@ -3,6 +3,7 @@
   "displayName": "Katalon Key Hook",
   "description": "",
   "author": "JTSC",
+  "publisher": "Sebastian",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
